@@ -5,7 +5,7 @@
 
 ## 📝Sobre
 
-Fogo do doom é um projecto desenvolvido no tutorial do youtube do Filipe Dechamps.
+Fogo do doom é um projecto desenvolvido no tutorial do youtube no canal do  [Filipe Deschamps.](https://youtube.com/filipe-deschamps)
   
 
 ## 🛠 Tecnologias usadas.
@@ -25,6 +25,4 @@ Fogo do doom é um projecto desenvolvido no tutorial do youtube do Filipe Decham
 
     #abra o arquivo index.html
 ```
-
-
-
+[Link demo]()
