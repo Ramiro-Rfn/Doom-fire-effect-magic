@@ -1,3 +1,27 @@
+*{
+    padding: 0;
+    border: none;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    background-color: #000;
+}
+
+.title{
+    font-size: 34px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
 table{
     border-collapse: collapse;
     border: 1px solid #000;
